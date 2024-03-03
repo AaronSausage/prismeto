@@ -24,11 +24,11 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 
 
 ## Planned features:
-1. Getting input data from blog and prepare version for e-mail newsletter 
+1. Getting input data from blog and prepare version for e-mail newsletter <br> 
 ...tbc
 
 ## Roadmap (personal+project):
-- [x] Get domain prismeto.com (for marketing/sales and future app purposes)
+- [x] ~~Get domain prismeto.com (for marketing/sales and future app purposes)~~
 - [ ] Create Blog (build in public & dumping thoughts)
 - [ ] Prepare simple landing page 
 - [ ] Learn RoR basics & practice
