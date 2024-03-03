@@ -2,6 +2,7 @@
 > *This readme file is here so that I can dump my thoughts on the application I am building. <br>In the near future it will have a proper format.*
 
 
+
 # Problem:
 I work with engineers and observe how they act and deal, especially with content they have created. 
 I've noticed they don't want to waste time on social media and other marketing activities to properly promote their hard work, 
@@ -9,7 +10,9 @@ even if marketing could be their best leverage both personally and professionall
 
 I get it. They're engineers, problem solvers — NOT marketers.
 
-**To address this, I'm building a simple tool -> Prismeto: content distribution for busy programmers**
+**To address this, I'm building a simple tool**
+
+> **Prismeto: content distribution for busy programmers**
 
 
 
