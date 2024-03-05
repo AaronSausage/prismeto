@@ -12,7 +12,7 @@ I get it. They're engineers, problem solvers — NOT marketers.
 
 **To address this, I'm building a simple tool**
 
-> **Prismeto: content distribution for busy programmers**
+> **Prismeto: <br>→ Content distribution for busy programmers <br>→ Turn your technical blogpost into your marketing machine**
 
 
 
