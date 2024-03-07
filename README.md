@@ -33,7 +33,8 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 ## Roadmap (personal+project):
 - [x] ~~Get domain prismeto.com (for marketing/sales and future app purposes)~~
 - [ ] Create Blog (build in public & dumping thoughts)
-- [ ] Prepare simple landing page 
+- [x] ~~Prepare simple landing page~~
+- [ ] Link prismeto.com domain to netlify/ghpages/cloudflare for auto deploys
 - [ ] Learn RoR basics & practice
 - [ ] Learn API basics & practice
 - [ ] Learn Databases basics & practice (if needed)
