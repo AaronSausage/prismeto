@@ -1,4 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9e6090d7-7557-46c6-8c89-7240c3511e75/deploy-status)](https://app.netlify.com/sites/prismeto/deploys)<br><br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e6090d7-7557-46c6-8c89-7240c3511e75/deploy-status)](https://app.netlify.com/sites/prismeto/deploys)
+<br>
 
 > [!TIP]
 > *This readme file is here so that I can dump my thoughts on the application I am building. <br>In the near future it will have a proper format.*
@@ -36,7 +37,9 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 - [x] ~~Get domain prismeto.com (for marketing/sales and future app purposes)~~
 - [ ] Create Blog (build in public & dumping thoughts)
 - [x] ~~Prepare simple landing page~~
-- [ ] Link prismeto.com domain to netlify/ghpages/cloudflare for auto deploys
+- [x] ~~Host prismeto.com on netlify/ghpages for auto deploys~~
+- [ ] Add Cloudflare protection
+- [ ] Setup DNS section for migration to prismeto.com
 - [ ] Learn RoR basics & practice
 - [ ] Learn API basics & practice
 - [ ] Learn Databases basics & practice (if needed)
