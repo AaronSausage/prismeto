@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9e6090d7-7557-46c6-8c89-7240c3511e75/deploy-status)](https://app.netlify.com/sites/cute-sunburst-a0d23e/deploys)
 <br><br>
 
-> > [!TIP]
+> [!TIP]
 > *This readme file is here so that I can dump my thoughts on the application I am building. <br>In the near future it will have a proper format.*
 
 
