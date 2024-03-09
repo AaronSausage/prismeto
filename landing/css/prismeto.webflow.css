@@ -261,7 +261,7 @@ blockquote {
 }
 
 .container.container-navbar {
-  border-bottom: 1px solid rgba(255, 255, 255, .1);
+  border-bottom: 1px rgba(255, 255, 255, .1);
   justify-content: space-between;
   align-items: center;
   padding-top: 12px;
@@ -446,11 +446,14 @@ blockquote {
 }
 
 .link-with-icon {
+  opacity: .6;
   text-decoration: none;
+  transition: opacity .35s;
   display: inline-block;
 }
 
 .link-with-icon:hover {
+  opacity: 1;
   color: var(--primary--70);
 }
 
@@ -459,7 +462,7 @@ blockquote {
 }
 
 .link-with-icon:focus {
-  box-shadow: 0 0 0 2px var(--neutral--10), 0 0 0 5px var(--primary--60);
+  opacity: 1;
   color: var(--primary--70);
 }
 
@@ -1667,12 +1670,11 @@ blockquote {
   flex-flow: row;
   align-items: center;
   margin-right: 12px;
-  transition: opacity .35s;
   display: flex;
 }
 
 .text-icon-wrapper:hover {
-  opacity: .6;
+  opacity: 1;
   color: var(--primary--10);
 }
 
@@ -4164,6 +4166,10 @@ blockquote {
 
 .brand-logo-image {
   height: 2rem;
+}
+
+.brand-logo-image:hover {
+  opacity: 1;
 }
 
 .customize-page-wrapper {
@@ -8345,6 +8351,10 @@ html.w-mod-js [data-ix="tooltip-hover"] {
 }
 
 @media screen and (max-width: 479px) {
+  .container.container-navbar {
+    padding-right: 0;
+  }
+
   .heading.xl.c-t-neutral-10 {
     font-size: 3.1rem;
   }
