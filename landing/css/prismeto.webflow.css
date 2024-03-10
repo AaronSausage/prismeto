@@ -447,6 +447,8 @@ blockquote {
 
 .link-with-icon {
   opacity: .6;
+  margin-left: 12px;
+  margin-right: 12px;
   text-decoration: none;
   transition: opacity .35s;
   display: inline-block;
@@ -1424,6 +1426,8 @@ blockquote {
 
 .nav-link.color-inverse {
   color: var(--neutral--60);
+  margin-right: 8px;
+  transition: opacity .35s;
 }
 
 .nav-link.color-inverse:hover {
@@ -1664,8 +1668,8 @@ blockquote {
 }
 
 .text-icon-wrapper {
-  grid-column-gap: 12px;
-  grid-row-gap: 12px;
+  grid-column-gap: 8px;
+  grid-row-gap: 8px;
   color: var(--primary--10);
   flex-flow: row;
   align-items: center;
@@ -8352,7 +8356,7 @@ html.w-mod-js [data-ix="tooltip-hover"] {
 
 @media screen and (max-width: 479px) {
   .container.container-navbar {
-    padding-right: 0;
+    padding-right: 16px;
   }
 
   .heading.xl.c-t-neutral-10 {
