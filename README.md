@@ -35,16 +35,21 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 
 ## Roadmap (personal+project):
 - [x] ~~Get domain prismeto.com (for marketing/sales and future app purposes)~~
-- [ ] Create Blog (build in public & dumping thoughts)
 - [x] ~~Prepare simple landing page~~
 - [x] ~~Host prismeto.com on netlify/ghpages for auto deploys~~
+- [ ] Choose Blog engine (never did that through github)
+- [ ] Create Blog (build in public & dumping thoughts)
 - [ ] Add Cloudflare protection
 - [ ] Setup DNS section for migration to prismeto.com
+- [ ] Sketch basic architecture of the app
 - [ ] Learn RoR basics & practice
 - [ ] Learn API basics & practice
 - [ ] Learn Databases basics & practice (if needed)
 - [ ] Coding first feature with input data from blog
-- [ ] Matching data from input source to different output sources <br>
+- [ ] Matching data from input to different output sources
+- [ ] Add local LLM to work
+- [ ] Add OpenAI by API
+<br>
 ...tbc 
 
 ### Additional thoughts:
@@ -53,6 +58,9 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 - Think about output sources (starting from e-mail newsletter as a main output source and adding other sources down below - match this point with point above, prioritise adding sources to distribute my blog posts (as I'm building in public) to earn visibility/traffic)
 - Think about how to use AI (API based or local/server LLMs) in output processing <br>
 ... tbc
+
+### Knowledge sources / education
+...tbc
 
 ---
 <br>
