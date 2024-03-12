@@ -37,8 +37,10 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 - [x] ~~Get domain prismeto.com (for marketing/sales and future app purposes)~~
 - [x] ~~Prepare simple landing page~~
 - [x] ~~Host prismeto.com on netlify/ghpages for auto deploys~~
-- [ ] Choose Blog engine (never did that through github)
+- [x] ~~Choose Blog engine (never did that through github)~~ -> Hugo
 - [ ] Create Blog (build in public & dumping thoughts)
+- [ ] Create Blog on localhost
+- [ ] Move Blog from local to github
 - [ ] Add Cloudflare protection
 - [ ] Setup DNS section for migration to prismeto.com
 - [ ] Sketch basic architecture of the app
