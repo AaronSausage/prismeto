@@ -62,7 +62,13 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 ... tbc
 
 ### Knowledge sources / education
+
+Creating a Blog with Hugo and Github in 10 minutes:<br> 
+https://www.youtube.com/watch?v=LIFvgrRxdt4
+
 ...tbc
+
+
 
 ---
 <br>
