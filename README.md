@@ -39,7 +39,7 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 - [x] ~~Host prismeto.com on netlify/ghpages for auto deploys~~
 - [x] ~~Choose Blog engine (never did that through github)~~ -> Hugo
 - [ ] Create Blog (build in public & dumping thoughts)
-- [ ] Create Blog on localhost
+- [x] ~~Create Blog on localhost~~
 - [ ] Move Blog from local to github
 - [ ] Add Cloudflare protection
 - [ ] Setup DNS section for migration to prismeto.com
