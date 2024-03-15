@@ -40,9 +40,13 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 - [x] ~~Choose Blog engine (never did that through github)~~ -> Hugo
 - [ ] Create Blog (build in public & dumping thoughts)
 - [x] ~~Create Blog on localhost~~
-- [ ] Choose documentation page 
-- [ ] Create documentation page 
+- [ ] Create additional repo for blog builds
+- [ ] Separate blog builds from the content
+- [ ] Start making first issues from the roadmap itself 
+- [ ] Make a list of technical blogs matching the data sources
 - [ ] Move Blog from local to github
+- [ ] Choose documentation page
+- [ ] Create documentation page
 - [ ] Add Cloudflare protection
 - [ ] Setup DNS section for migration to prismeto.com
 - [ ] Sketch basic architecture of the app
@@ -52,7 +56,7 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 - [ ] Coding first feature with input data from blog
 - [ ] Matching data from input to different output sources
 - [ ] Add local LLM to work
-- [ ] Add OpenAI by API
+- [ ] Add OpenAI ChatGPT trough API
 <br>
 ...tbc 
 
