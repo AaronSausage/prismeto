@@ -30,7 +30,8 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 
 
 ## Planned features:
-1. Getting input data from blog and prepare version for e-mail newsletter <br> 
+1. Getting input data from blog and prepare version for e-mail newsletter
+2. the same for different social media apps  <br> 
 ...tbc
 
 ## Roadmap (personal+project):
