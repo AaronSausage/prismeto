@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>⟁ Prismeto</title>
+    <link>https://blog.prismeto.com/</link>
+    <description>Recent content on ⟁ Prismeto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Mar 2024 17:10:16 +0100</lastBuildDate>
+    <atom:link href="https://blog.prismeto.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://blog.prismeto.com/posts/first-post/</link>
+      <pubDate>Wed, 13 Mar 2024 17:10:16 +0100</pubDate>
+      <guid>https://blog.prismeto.com/posts/first-post/</guid>
+      <description>Niobe Iovis modo corpora Inhonoratae potest Lorem markdownum, talia bis, magis posse, sis quasque frondosus; vocem, nam hoc, ne. Partus ignotas.
+Incurvo utque ore latuit diuque. Esse fraude nec multaque quae; vicerat extimuit natum segetis pulvis nisi; nec magne hic ipsa iuverat. Ciris atris, arreptamque origo expellitque inter.
+Inquit diebus successu plenaque leonem Halcyoneus et Esse 👋 saepe inque et undas Tyrioque se Gradive mediis pereunt utque pro noscit, huic. Ecce spisso, vox rapta subit externo nec laesa praesentia oscula.</description>
+    </item>
+  </channel>
+</rss>

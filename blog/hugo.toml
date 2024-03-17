@@ -1,0 +1,4 @@
+baseURL = 'https://blog.prismeto.com/'
+languageCode = 'en-us'
+title = '⟁ Prismeto'
+theme="PaperMod"
