@@ -73,6 +73,9 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 Creating a Blog with Hugo and Github in 10 minutes:<br> 
 https://www.youtube.com/watch?v=LIFvgrRxdt4
 
+API basics (in polish):<br>
+https://ebook.zautomatyzowani.pl/
+
 ...tbc
 
 
