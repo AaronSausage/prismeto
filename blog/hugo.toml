@@ -1,4 +1,4 @@
-baseURL = 'https://blog.prismeto.com/'
+baseURL = 'https://blog-prismeto.netlify.app/'
 languageCode = 'en-us'
 title = '⟁ Prismeto'
 theme="PaperMod"
