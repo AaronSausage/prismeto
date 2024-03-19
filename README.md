@@ -46,10 +46,11 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 - [ ] Start making first issues from the roadmap itself 
 - [ ] Make a list of technical blogs matching the data sources
 - [ ] Move Blog from local to github
-- [ ] Choose documentation page
+- [ ] Choose documentation page (Docosaurus or Mintlify)
 - [ ] Create documentation page
 - [ ] Add Cloudflare protection
-- [ ] Setup DNS section for migration to prismeto.com
+- [ ] Configure MX records oc Cloudflare/Netlify for email handling
+- [x] ~~Setup DNS section for migration to prismeto.com~~
 - [ ] Sketch basic architecture of the app
 - [ ] Learn RoR basics & practice
 - [ ] Learn API basics & practice
