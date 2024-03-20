@@ -46,7 +46,7 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 - [ ] Start making first issues from the roadmap itself 
 - [ ] Make a list of technical blogs matching the data sources
 - [ ] Move Blog from local to github
-- [ ] Choose documentation page (Docosaurus or Mintlify)
+- [x] ~~Choose documentation engine (Docosaurus or Mintlify)~~ -> Docosaurus
 - [ ] Create documentation page
 - [ ] Add Cloudflare protection
 - [ ] Configure MX records oc Cloudflare/Netlify for email handling
