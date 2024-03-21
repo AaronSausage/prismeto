@@ -39,13 +39,13 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 - [x] ~~Prepare simple landing page~~
 - [x] ~~Host prismeto.com on netlify/ghpages for auto deploys~~
 - [x] ~~Choose Blog engine (never did that through github)~~ -> Hugo
-- [ ] Create Blog (build in public & dumping thoughts)
+- [x] ~~Create Blog (build in public & dumping thoughts)~~
 - [x] ~~Create Blog on localhost~~
-- [ ] Create additional repo for blog builds
-- [ ] Separate blog builds from the content
+- [x] ~~Create additional repo for blog builds~~ -> no need, monorepo took place
+- [x] ~~Separate blog builds from the content~~ -> no need, monorepo
 - [ ] Start making first issues from the roadmap itself 
 - [ ] Make a list of technical blogs matching the data sources
-- [ ] Move Blog from local to github
+- [x] ~~Move Blog from localhost to github/netlify~~ -> build 
 - [x] ~~Choose documentation engine (Docosaurus or Mintlify)~~ -> Docosaurus
 - [ ] Create documentation page
 - [ ] Add Cloudflare protection
