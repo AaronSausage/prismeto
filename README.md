@@ -63,7 +63,7 @@ That's what I want to build here: a simple tool which you can just plug-in to yo
 ...tbc 
 
 ### Additional thoughts:
-- Think about getting traffic from other 100commits competition and/or GitHub -> as future users / issues providers 
+- Think about getting traffic ~~from other 100commits competition~~ and/or GitHub -> as future users / issues providers 
 - Think about getting traffic from other sources over the internet (mainly through content distribution 😉 on different platforms where I find other devs who'd like to use this app in their workflow)
 - Think about output sources (starting from e-mail newsletter as a main output source and adding other sources down below - match this point with point above, prioritise adding sources to distribute my blog posts (as I'm building in public) to earn visibility/traffic)
 - Think about how to use AI (API based or local/server LLMs) in output processing <br>
