@@ -9,7 +9,7 @@ Example one (direct link):<br>
 ![prismeto-hero-1](https://prismeto.com/images/hero-prism-p-500.webp)
 
 Example two (from repo):<br>
-![Alt text](/blog/public/img/prism.jpeg)
+![image-from-repo](../img/prism.jpeg)
 
 
 *This post is for test only* 
