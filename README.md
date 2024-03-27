@@ -77,6 +77,10 @@ https://www.youtube.com/watch?v=LIFvgrRxdt4
 API basics (in polish):<br>
 https://ebook.zautomatyzowani.pl/
 
+Arkency Course for Juniors:
+Ruby on Rails - from zero to apps
+https://courses.arkademy.dev/courses/930<br>
+
 ...tbc
 
 
