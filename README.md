@@ -79,6 +79,7 @@ https://ebook.zautomatyzowani.pl/
 
 Arkency Course for Juniors:
 Ruby on Rails - from zero to apps
+https://products.arkency.com/junior-rails-developer/<br>
 https://courses.arkademy.dev/courses/930<br>
 
 ...tbc
